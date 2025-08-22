@@ -2,7 +2,7 @@
 
 #### ⚔️ Full-Stack Developer | AI-Enhanced | MERN & Beyond
 
-![Banner](https://media.licdn.com/dms/image/v2/D5622AQFi2hPKVkYupQ/feedshare-shrink_800/feedshare-shrink_800/0/1733317187622?e=1755734400&v=beta&t=vyyHjsGIyEz3n4B6b6jeFWNsoQupLqvESurcwHVXa7Q)
+![Banner](https://media.licdn.com/dms/image/v2/D5622AQFi2hPKVkYupQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733317187639?e=1758758400&v=beta&t=IILJKFtPTtPAaoLOKaQplmDQfHxfCPfBJgmUiD6uEL0)
 
 I’m a results-driven Full-Stack Developer specializing in **MERN stack** and **AI-powered integrations** like OpenAI and LangChain. I build scalable, secure, and well-architected web applications. Passionate about strategy, teamwork, and continuous improvement.
 
