@@ -67,7 +67,7 @@ I'm open to working on:
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="36" style="vertical-align:middle; margin-right:16px; fill:#181717;">](https://github.com/Ahsanul-Mostakin)  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="36" style="vertical-align:middle; margin-right:16px; fill:#0A66C2;">](https://www.linkedin.com/in/ahsanul-mostakin-2251b5192/)  
-[🌐 Portfolio Website](https://ahsanul-mostakin.github.io/Portfolio-Website/)  
+[🌐 Portfolio Website](https://ahsanul-mostakin.github.io/portfolio-website/)  
 ✉️ Email: ahsanulmostakin86@gmail.com
 
 ---
