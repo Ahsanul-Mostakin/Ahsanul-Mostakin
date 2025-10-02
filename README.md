@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Ahsanul Mostakin
 
-#### ⚔️ Full-Stack Developer | MERN & AI-Ready
+#### ⚔️ Full-Stack Developer | MERN & AI
 
 ![Banner](https://media.licdn.com/dms/image/v2/D5622AQFi2hPKVkYupQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733317187639?e=1758758400&v=beta&t=IILJKFtPTtPAaoLOKaQplmDQfHxfCPfBJgmUiD6uEL0)
 
