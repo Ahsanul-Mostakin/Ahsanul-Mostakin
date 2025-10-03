@@ -2,7 +2,7 @@
 
 #### ⚔️ Full-Stack Developer | MERN & AI
 
-![Banner](https://media.licdn.com/dms/image/v2/D5622AQFi2hPKVkYupQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733317187639?e=1758758400&v=beta&t=IILJKFtPTtPAaoLOKaQplmDQfHxfCPfBJgmUiD6uEL0)
+![Banner](https://media.licdn.com/dms/image/v2/D5622AQFi2hPKVkYupQ/feedshare-shrink_800/feedshare-shrink_800/0/1733317187622?e=1762387200&v=beta&t=TGpoY6TFjoxpGaL3OPxMUnmV5WCbGc_Br0BCMfLS67k)
 
 I’m a Full-Stack Developer specializing in **MERN stack**.  
 I build scalable, secure, and well-architected web applications.  
