@@ -1,6 +1,6 @@
 # Ahsanul Mostakin
 
-![Banner](https://media.licdn.com/dms/image/v2/D5622AQFi2hPKVkYupQ/feedshare-shrink_800/feedshare-shrink_800/0/1733317187622?e=1762387200&v=beta&t=TGpoY6TFjoxpGaL3OPxMUnmV5WCbGc_Br0BCMfLS67k)
+![Banner](![Image](https://github.com/user-attachments/assets/a0fd4170-de44-430e-93a1-cbc0f0b31bfe))
 
 ## Full-Stack MERN Developer
 
