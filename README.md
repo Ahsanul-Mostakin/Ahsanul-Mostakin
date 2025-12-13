@@ -32,14 +32,6 @@ I build web applications that work in production.
 
 ---
 
-## 📈 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsanul-Mostakin\&show_icons=true\&count_private=true\&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanul-Mostakin\&theme=transparent)
-![Streak](https://streak-stats.demolab.com/?user=Ahsanul-Mostakin\&theme=transparent)
-
----
-
 ## 📚 Currently Learning
 
 **Architecture:** System Design • Scalability • Cloud (AWS)
