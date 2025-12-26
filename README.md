@@ -1,6 +1,6 @@
 # Ahsanul Mostakin
 
-![Profile](https://github.com/user-attachments/assets/c552bf2a-72ee-4407-9c9a-b757abbf8937)
+![Profile](https://github.com/user-attachments/assets/de2bf230-25f7-424f-bdf5-64c7a388372d)
 
 ## Full-Stack MERN Developer
 
