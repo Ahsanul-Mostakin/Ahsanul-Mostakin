@@ -27,6 +27,7 @@ I build web applications that work in production.
 | Project | Tech | Live Demo |
 |-------|------|-----------|
 | **Real-Time Chat** | MERN + Socket.io | [View](https://mern-realtime-chat-4l5r.onrender.com) |
+| FoodZone - Food Delivery Website | MERN Stack + Redux | [View](https:/ / mern-foodzone.onrender.com) |
 | **Food Delivery** | React + Redux | [View](https://mostakin-food-delivery.netlify.app) |
 | **Auth System** | MERN + JWT | [View](https://auth-frontend-ipwt.onrender.com) |
 | **Notes App** | MERN + CRUD | [View](https://mern-notes-app-4de5.onrender.com) |
