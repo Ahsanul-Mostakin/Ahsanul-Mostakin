@@ -33,6 +33,7 @@ I build web applications that work in production.
 | **Notes App** | MERN + CRUD | [View](https://mern-notes-app-4de5.onrender.com) |
 | **Weather App** | Node.js + API | [View](https://weather-app-kxkj.onrender.com) |
 | **Weather App 2** | React + API | [View](https://react-weather-app-2-0cgz.onrender.com/) |
+| **Movie App** | React + API | [View](https://react-mastery-journey-w4vq.onrender.com/) |
 | **Portfolio** | HTML/CSS/JS | [View](https://ahsanul-mostakin.github.io/portfolio-website) |
 | **Currency Converter** | Web API | [View](https://ahsanul-mostakin.github.io/currency-converter-web/) |
 
