@@ -6,7 +6,7 @@
   width="320"
 />
 
-## Full-Stack MERN Developer
+## Full-Stack Developer | MERN + Next.js
 
 I build web applications that work in production.
 
@@ -14,28 +14,26 @@ I build web applications that work in production.
 
 ## 💻 Tech Stack
 
-**Frontend:** React.js • Redux Toolkit • Tailwind CSS • JavaScript (ES6+)  
-**Backend:** Node.js • Express.js • Socket.io • RESTful APIs  
-**Database:** MongoDB • Mongoose  
+**Frontend:** Next.js • React.js • TypeScript • Redux Toolkit • Tailwind CSS • JavaScript (ES6+)  
+**Backend:** Node.js • Express.js • Socket.io • RESTful APIs • Next.js API Routes  
+**Database:** MongoDB • Mongoose • PostgreSQL • Prisma ORM  
 **Security:** JWT • Bcrypt • RBAC  
-**Tools:** Git • Postman • VS Code • Docker (Basic)
+**Cloud & DevOps:** AWS (EC2, S3, RDS) • Docker • Vercel • Render  
+**Tools:** Git • Postman • VS Code • AI API Integration
 
 ---
 
 ## 📂 Deployed Projects
 
 | Project | Tech | Live Demo |
-|-------|------|-----------|
+|---------|------|-----------|
 | **Real-Time Chat** | MERN + Socket.io | [View](https://mern-realtime-chat-4l5r.onrender.com) |
-| **FoodZone - Food Delivery** | MERN Stack + Redux | [View](https://mern-foodzone.onrender.com) |
-| **Food Delivery** | React + Redux | [View](https://mostakin-food-delivery.netlify.app) |
+| **FoodZone - Food Delivery** | MERN + Redux | [View](https://mern-foodzone.onrender.com) |
 | **Auth System** | MERN + JWT | [View](https://auth-frontend-ipwt.onrender.com) |
 | **Notes App** | MERN + CRUD | [View](https://mern-notes-app-4de5.onrender.com) |
 | **Weather App** | Node.js + API | [View](https://weather-app-kxkj.onrender.com) |
-| **Weather App 2** | React + API | [View](https://react-weather-app-2-0cgz.onrender.com/) |
-| **Movie App** | React + API | [View](https://react-mastery-journey-w4vq.onrender.com/) |
+| **Movie App** | React + API | [View](https://react-mastery-journey-w4vq.onrender.com) |
 | **Portfolio** | HTML/CSS/JS | [View](https://ahsanul-mostakin.github.io/portfolio-website) |
-| **Currency Converter** | Web API | [View](https://ahsanul-mostakin.github.io/currency-converter-web/) |
 
 ---
 
@@ -47,7 +45,7 @@ I build web applications that work in production.
 
 ## 📚 Currently Learning
 
-**Architecture:** System Design • Scalability • Cloud (AWS)
+Next.js 16 • TypeScript • PostgreSQL • Prisma ORM • System Design • AWS • Docker
 
 ---
 
@@ -62,18 +60,18 @@ I build web applications that work in production.
 
 ## 💼 Open to Opportunities
 
-- Full-time positions  
-- Remote work  
+- Full-time positions
+- Remote work
 
 **Availability:** Immediate / Can join within 1–2 weeks  
-**Role:** MERN Stack / Full-Stack Developer  
+**Role:** Full-Stack Developer | MERN + Next.js  
 **Location:** Dhaka, Bangladesh (Open to Remote)
 
 ---
 
 <div align="center">
 
-**"Code that works > Code that impresses"**  
+**"Ship it. Improve it. Repeat."**  
 Built with precision. Deployed with confidence.
 
 </div>
