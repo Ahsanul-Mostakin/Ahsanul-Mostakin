@@ -6,9 +6,8 @@
   width="320"
 />
 
-## Full-Stack Developer | MERN + Next.js
-
-I build web applications that work in production.
+### Full-Stack Developer | MERN + Next.js
+> I don't just write code — I build things that work in production.
 
 ---
 
@@ -66,6 +65,14 @@ Next.js 16 • TypeScript • PostgreSQL • Prisma ORM • System Design • AW
 **Availability:** Immediate / Can join within 1–2 weeks  
 **Role:** Full-Stack Developer | MERN + Next.js  
 **Location:** Dhaka, Bangladesh (Open to Remote)
+
+---
+
+## 🎵 Currently Fueled By
+
+[![No Surrender - Judas Priest](https://img.youtube.com/vi/vMU804-bjQA/0.jpg)](https://www.youtube.com/watch?v=vMU804-bjQA)
+
+*Chasing the dream. Fighting without surrender.*
 
 ---
 
