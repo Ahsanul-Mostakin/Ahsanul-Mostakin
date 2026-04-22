@@ -70,7 +70,9 @@ Next.js 16 • TypeScript • PostgreSQL • Prisma ORM • System Design • AW
 
 ## 🎵 Currently Fueled By
 
-[![No Surrender - Judas Priest](https://img.youtube.com/vi/vMU804-bjQA/0.jpg)](https://www.youtube.com/watch?v=vMU804-bjQA)
+<a href="https://www.youtube.com/watch?v=vMU804-bjQA">
+  <img src="https://img.youtube.com/vi/vMU804-bjQA/maxresdefault.jpg" width="320" alt="No Surrender - Judas Priest"/>
+</a>
 
 *Chasing the dream. Fighting without surrender.*
 
