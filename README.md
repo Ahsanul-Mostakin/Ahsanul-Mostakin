@@ -68,16 +68,6 @@ Next.js 16 • TypeScript • PostgreSQL • Prisma ORM • System Design • AW
 
 ---
 
-## 🎵 Currently Fueled By
-
-<a href="https://www.youtube.com/watch?v=vMU804-bjQA">
-  <img src="https://img.youtube.com/vi/vMU804-bjQA/maxresdefault.jpg" width="320" alt="No Surrender - Judas Priest"/>
-</a>
-
-*Chasing the dream. Fighting without surrender.*
-
----
-
 <div align="center">
 
 **"Ship it. Improve it. Repeat."**  
