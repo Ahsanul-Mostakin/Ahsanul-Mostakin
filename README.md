@@ -6,8 +6,8 @@
   width="320"
 />
 
-### Full-Stack Developer | MERN + Next.js
-> I don't just write code — I build things that work in production.
+### Software Engineer | Full-Stack Systems & Architecture
+> I don't just write code — I architect and build resilient systems for production.
 
 ---
 
