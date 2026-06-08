@@ -44,7 +44,7 @@
 ---
 
 ### 📚 Currently Learning
-Next.js 16 • TypeScript • PostgreSQL • Prisma ORM • System Design • AWS • Docker
+Next.js 16 • Prisma ORM • System Design • AWS • Docker
 
 ---
 
