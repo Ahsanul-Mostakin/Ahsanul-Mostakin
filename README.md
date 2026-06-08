@@ -61,8 +61,3 @@ Next.js 16 • Prisma ORM • System Design • AWS • Docker
 * **Role:** Full-Stack Developer | MERN + Next.js
 * **Availability:** Immediate / Can join within 1–2 weeks
 * **Preference:** Full-time (Remote/On-site)
-
-<div align="center">
-**"Ship it. Improve it. Repeat."**  
-Built with precision. Deployed with confidence.
-</div>
