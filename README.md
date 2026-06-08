@@ -21,16 +21,17 @@
 
 ---
 
-### 📂 Deployed Projects
+## 📂 Deployed Projects
+
 | Project | Tech | Live Demo |
-| :--- | :--- | :--- |
-| Real-Time Chat | MERN + Socket.io | [View](#) |
-| FoodZone - Food Delivery | MERN + Redux | [View](#) |
-| Auth System | MERN + JWT | [View](#) |
-| Notes App | MERN + CRUD | [View](#) |
-| Weather App | Node.js + API | [View](#) |
-| Movie App | React + API | [View](#) |
-| Portfolio | HTML/CSS/JS | [View](#) |
+|---------|------|-----------|
+| **Real-Time Chat** | MERN + Socket.io | [View](https://mern-realtime-chat-4l5r.onrender.com) |
+| **FoodZone - Food Delivery** | MERN + Redux | [View](https://mern-foodzone.onrender.com) |
+| **Auth System** | MERN + JWT | [View](https://auth-frontend-ipwt.onrender.com) |
+| **Notes App** | MERN + CRUD | [View](https://mern-notes-app-4de5.onrender.com) |
+| **Weather App** | Node.js + API | [View](https://weather-app-kxkj.onrender.com) |
+| **Movie App** | React + API | [View](https://react-mastery-journey-w4vq.onrender.com) |
+| **Portfolio** | HTML/CSS/JS | [View](https://ahsanul-mostakin.github.io/portfolio-website) |
 
 ---
 
