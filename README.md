@@ -23,11 +23,11 @@ CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I've
 
 ## Tech Stack
 
-**Frontend:** React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · JavaScript (ES6+)
-**Backend:** Node.js · Express.js · REST APIs · Socket.io
-**Database:** MongoDB · Mongoose
-**Auth & Security:** JWT · Bcrypt
-**Tools & Deployment:** Git · GitHub · Vercel · Render · Postman
+- **Frontend:** React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · JavaScript (ES6+)
+- **Backend:** Node.js · Express.js · REST APIs · Socket.io
+- **Database:** MongoDB · Mongoose · PostgreSQL
+- **Auth & Security:** JWT · Bcrypt
+- **Tools & Deployment:** Git · GitHub · Vercel · Render · Postman
 
 ---
 
@@ -35,6 +35,8 @@ CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I've
 
 | Project | Description | Tech Stack | Live Demo |
 |---|---|---|---|
+| **AI SaaS Platform** | Production-ready SaaS with AI-powered content generation, subscription-based access, and role-based route protection | Next.js, TypeScript, OpenAI API, Tailwind CSS, MongoDB | [GitHub](https://github.com/Ahsanul-Mostakin/ai-saas) |
+| **Full Stack Social App** | Social platform with user profiles, post creation, follow system, and real-time feed | Next.js, TypeScript, Tailwind CSS, MongoDB, Clerk Auth | [GitHub](https://github.com/Ahsanul-Mostakin/social-app) |
 | **Real-Time Chat App** | WebSocket-based messaging supporting multiple concurrent users with JWT-secured auth | React, Node.js, Socket.io, MongoDB, JWT | [View](https://mern-realtime-chat-4l5r.onrender.com) |
 | **FoodZone – Food Delivery** | Full-stack food ordering platform with cart, order flow, and state management | MERN, Redux | [View](https://mern-foodzone.onrender.com) |
 | **Auth System** | Complete authentication flow: email verification, password recovery, protected routes | MERN, JWT, Nodemailer | [View](https://auth-frontend-ipwt.onrender.com) |
