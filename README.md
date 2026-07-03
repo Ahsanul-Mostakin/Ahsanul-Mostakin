@@ -1,63 +1,66 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/6bf8b1b8-0fd8-4778-b19c-c8434c54825b" alt="Profile Image" width="320"/>
+<img src="https://github.com/user-attachments/assets/6bf8b1b8-0fd8-4778-b19c-c8434c54825b" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 
 # Ahsanul Mostakin
-### Software Engineer | Full-Stack Systems & Architecture
+### Full-Stack Developer | MERN · Next.js · TypeScript
 
-*I don't just write code — I architect and build resilient systems for production.*
+I build full-stack web applications — real-time systems, authentication platforms, and CRUD-driven products — with clean, production-ready code.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsanul-mostakin.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanul-mostakin-2251b5192/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanulmostakin86@gmail.com)
 
 </div>
 
 ---
 
-### 💻 Tech Stack
-* **Frontend:** Next.js • React.js • TypeScript • Redux Toolkit • Tailwind CSS • JavaScript (ES6+)
-* **Backend:** Node.js • Express.js • Socket.io • RESTful APIs • Next.js API Routes
-* **Database:** MongoDB • Mongoose • PostgreSQL • Prisma ORM
-* **Security:** JWT • Bcrypt • RBAC
-* **Cloud & DevOps:** AWS (EC2, S3, RDS) • Docker • Vercel • Render
-* **Tools:** Git • Postman • VS Code • AI API Integration
+## About Me
+
+CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I've built and deployed multiple full-stack projects covering real-time communication, authentication systems, and API-driven applications — with a focus on clean architecture and readable code.
 
 ---
 
-## 📂 Deployed Projects
+## Tech Stack
 
-| Project | Tech | Live Demo |
-|---------|------|-----------|
-| **Real-Time Chat** | MERN + Socket.io | [View](https://mern-realtime-chat-4l5r.onrender.com) |
-| **FoodZone - Food Delivery** | MERN + Redux | [View](https://mern-foodzone.onrender.com) |
-| **Auth System** | MERN + JWT | [View](https://auth-frontend-ipwt.onrender.com) |
-| **Notes App** | MERN + CRUD | [View](https://mern-notes-app-4de5.onrender.com) |
-| **Weather App** | Node.js + API | [View](https://weather-app-kxkj.onrender.com) |
-| **Movie App** | React + API | [View](https://react-mastery-journey-w4vq.onrender.com) |
-| **Portfolio** | HTML/CSS/JS | [View](https://ahsanul-mostakin.github.io/portfolio-website) |
+**Frontend:** React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · JavaScript (ES6+)
+**Backend:** Node.js · Express.js · REST APIs · Socket.io
+**Database:** MongoDB · Mongoose
+**Auth & Security:** JWT · Bcrypt
+**Tools & Deployment:** Git · GitHub · Vercel · Render · Postman
 
 ---
 
-### 🔥 GitHub Activity
-<p align="left">
-  <a href="https://github.com/Ahsanul-Mostakin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsanul-Mostakin&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak" />
-  </a>
+## Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---|---|---|---|
+| **Real-Time Chat App** | WebSocket-based messaging supporting multiple concurrent users with JWT-secured auth | React, Node.js, Socket.io, MongoDB, JWT | [View](https://mern-realtime-chat-4l5r.onrender.com) |
+| **FoodZone – Food Delivery** | Full-stack food ordering platform with cart, order flow, and state management | MERN, Redux | [View](https://mern-foodzone.onrender.com) |
+| **Auth System** | Complete authentication flow: email verification, password recovery, protected routes | MERN, JWT, Nodemailer | [View](https://auth-frontend-ipwt.onrender.com) |
+| **Notes App** | CRUD application with persistent MongoDB storage | MERN | [View](https://mern-notes-app-4de5.onrender.com) |
+| **Weather App** | Weather lookup app consuming a third-party REST API | Node.js, REST API | [View](https://weather-app-kxkj.onrender.com) |
+| **Movie App** | Movie search/browse app using a public API | React.js | [View](https://react-mastery-journey-w4vq.onrender.com) |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsanul-Mostakin&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📚 Currently Learning
-Next.js 16 • Prisma ORM • System Design • AWS • Docker
+## Education
+
+**B.Sc. in Computer Science & Engineering**
+American International University-Bangladesh (AIUB)
 
 ---
 
-### 📬 Contact
-* 🌐 **Portfolio:** https://ahsanul-mostakin.github.io/portfolio-website/
-* 💼 **LinkedIn:** https://www.linkedin.com/in/ahsanul-mostakin-2251b5192/
-* 📧 **Email:** ahsanulmostakin86@gmail.com
-* 📍 **Location:** Dhaka, Bangladesh
+## Contact
 
----
+Bashundhara, Dhaka, Bangladesh · [ahsanulmostakin86@gmail.com](mailto:ahsanulmostakin86@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahsanul-mostakin-2251b5192/)
 
-### 💼 Open to Opportunities
-* **Role:** Full-Stack Developer | MERN + Next.js
-* **Availability:** Immediate / Can join within 1–2 weeks
-* **Preference:** Full-time (Remote/On-site)
+</div>
