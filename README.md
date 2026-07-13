@@ -5,7 +5,7 @@
 # Ahsanul Mostakin
 ### Full-Stack Developer | MERN · Next.js · TypeScript
 
-I build full-stack web applications — real-time systems, authentication platforms, and CRUD-driven products — with clean, production-ready code.
+I build full-stack web applications — AI-integrated platforms, authentication systems, real-time apps, and CRUD-driven products — with clean, production-ready code.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsanul-mostakin.github.io/portfolio-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanul-mostakin-2251b5192/)
@@ -17,7 +17,7 @@ I build full-stack web applications — real-time systems, authentication platfo
 
 ## About Me
 
-CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I've built and deployed multiple full-stack projects covering real-time communication, authentication systems, and API-driven applications — with a focus on clean architecture and readable code.
+CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I build and deploy full-stack projects covering AI-integrated products, authentication systems, real-time communication, and API-driven applications — with a focus on clean architecture and readable code.
 
 ---
 
@@ -25,8 +25,8 @@ CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I've
 
 - **Frontend:** React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · JavaScript (ES6+)
 - **Backend:** Node.js · Express.js · REST APIs · Socket.io
-- **Database:** MongoDB · Mongoose · PostgreSQL
-- **Auth & Security:** JWT · Bcrypt
+- **Database:** MongoDB · Mongoose · PostgreSQL · Drizzle ORM
+- **Auth & Security:** JWT · Bcrypt · Clerk
 - **Tools & Deployment:** Git · GitHub · Vercel · Render · Postman
 
 ---
@@ -35,14 +35,13 @@ CSE graduate from AIUB, specializing in the **MERN stack** and **Next.js**. I've
 
 | Project | Description | Tech Stack | Live Demo |
 |---|---|---|---|
-| **AI SaaS Platform** | Production-ready SaaS with AI-powered content generation, subscription-based access, and role-based route protection | Next.js, TypeScript, OpenAI API, Tailwind CSS, MongoDB | [GitHub](https://github.com/Ahsanul-Mostakin/ai-saas) |
-| **Full Stack Social App** | Social platform with user profiles, post creation, follow system, and real-time feed | Next.js, TypeScript, Tailwind CSS, MongoDB, Clerk Auth | [GitHub](https://github.com/Ahsanul-Mostakin/social-app) |
-| **Real-Time Chat App** | WebSocket-based messaging supporting multiple concurrent users with JWT-secured auth | React, Node.js, Socket.io, MongoDB, JWT | [View](https://mern-realtime-chat-4l5r.onrender.com) |
-| **FoodZone – Food Delivery** | Full-stack food ordering platform with cart, order flow, and state management | MERN, Redux | [View](https://mern-foodzone.onrender.com) |
-| **Auth System** | Complete authentication flow: email verification, password recovery, protected routes | MERN, JWT, Nodemailer | [View](https://auth-frontend-ipwt.onrender.com) |
-| **Notes App** | CRUD application with persistent MongoDB storage | MERN | [View](https://mern-notes-app-4de5.onrender.com) |
-| **Weather App** | Weather lookup app consuming a third-party REST API | Node.js, REST API | [View](https://weather-app-kxkj.onrender.com) |
-| **Movie App** | Movie search/browse app using a public API | React.js | [View](https://react-mastery-journey-w4vq.onrender.com) |
+| **AI Image Studio** | AI-powered SaaS that restyles uploaded photos into 6 curated art styles, with auth, usage quotas, and generation history | Next.js, TypeScript, Hugging Face (FLUX), PostgreSQL, Drizzle, Clerk | [Live](https://ai-image-studio-saas-9thn.vercel.app/) |
+| **MERN Advanced Auth** | Full authentication system with OTP email verification, password recovery, and HTTP-only cookie sessions | Node.js, Express, MongoDB, JWT, Mailtrap | [Live](https://mern-advanced-auth-q6yt.onrender.com/) |
+| **Real-Time Chat App** | WebSocket-based messaging supporting multiple concurrent users with JWT-secured auth | React, Node.js, Socket.io, MongoDB, JWT | [Live](https://mern-realtime-chat-4l5r.onrender.com) |
+| **FoodZone – Food Delivery** | Full-stack food ordering platform with cart, order flow, and state management | MERN, Redux | [Live](https://mern-foodzone.onrender.com) |
+| **Notes App** | CRUD application with persistent MongoDB storage | MERN | [Live](https://mern-notes-app-4de5.onrender.com) |
+| **Weather App** | Weather lookup app consuming a third-party REST API | Node.js, REST API | [Live](https://weather-app-kxkj.onrender.com) |
+| **Movie App** | Movie search/browse app using a public API | React.js | [Live](https://react-mastery-journey-w4vq.onrender.com) |
 
 ---
 
@@ -64,5 +63,3 @@ American International University-Bangladesh (AIUB)
 ## Contact
 
 Bashundhara, Dhaka, Bangladesh · [ahsanulmostakin86@gmail.com](mailto:ahsanulmostakin86@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahsanul-mostakin-2251b5192/)
-
-</div>
